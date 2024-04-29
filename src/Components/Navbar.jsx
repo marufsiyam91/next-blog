@@ -6,7 +6,7 @@ const Navbar = () => {
         <div className="max-w-screen-2xl mx-auto flex justify-between items-center px-8 py-4">
 
         <div>
-            <Link className="text-xl" href="/">coders book </Link>
+            <Link className="text-2xl font-medium" href="/">coders book </Link>
         </div>
         <div className="flex gap-2">
             <button className="py-2 rounded-md px-5 border border-primary-200 ">Sign up</button>
