@@ -1,6 +1,6 @@
 import React from 'react'
 import Image from 'next/image'
-import BookImage from '../../public/pngwing.com.png'
+import BookImage from '../../../../public/pngwing.com.png'
 
 const Banner = () => {
   return (
